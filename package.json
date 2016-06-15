@@ -1,0 +1,30 @@
+{
+  "name": "mytacos-xpress",
+  "version": "1.0.0",
+  "description": "Love my tacos",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrew-h-lee/mytacos-xpress.git"
+  },
+  "keywords": [
+    "express",
+    "like",
+    "tacos",
+    "unit-test"
+  ],
+  "author": "Andrew H. Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew-h-lee/mytacos-xpress/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
